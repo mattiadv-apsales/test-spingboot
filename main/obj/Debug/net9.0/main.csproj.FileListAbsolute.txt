@@ -1,0 +1,15 @@
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.AssemblyInfo.cs
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.sourcelink.json
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\bin\Debug\net9.0\main.exe
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\bin\Debug\net9.0\main.deps.json
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\bin\Debug\net9.0\main.runtimeconfig.json
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\bin\Debug\net9.0\main.dll
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\bin\Debug\net9.0\main.pdb
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.dll
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\refint\main.dll
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.pdb
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\main.genruntimeconfig.cache
+C:\Users\Utente\Desktop\TEAM APSALES\GITHUB\MIEI\test-spingboot\main\obj\Debug\net9.0\ref\main.dll
