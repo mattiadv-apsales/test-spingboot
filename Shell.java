@@ -5,6 +5,7 @@ public class Shell {
     private static File currentDirectory = new File(System.getProperty("user.dir"));
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        String before = "PinoOS";
 
         while (true) {
             System.out.print(currentDirectory.getAbsolutePath() + " > ");
@@ -14,10 +15,10 @@ public class Shell {
             
             switch (command) {
                 case "exit":
-                    System.out.println(currentDirectory.getAbsolutePath() + " > Exiting shell. Goodbye!");
+                    System.out.println(before + " > Exiting shell. Goodbye!");
                     return;
                 case "hello":
-                    System.out.println(currentDirectory.getAbsolutePath() + " > Hello, User!");
+                    System.out.println(before + " > Hello, User!");
                     break;
                 case "ls":
                     File[] files = currentDirectory.listFiles();
@@ -29,7 +30,7 @@ public class Shell {
                     break;
                 case "cd":
                     if (parts.length < 2) {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > Error: 'cd' requires a directory name");
+                        System.out.println(before + " > Error: 'cd' requires a directory name");
                         break;
                     }
 
@@ -48,7 +49,7 @@ public class Shell {
                         if (parent != null) {
                             currentDirectory = parent;
                         } else {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Error: No parent directory");
+                            System.out.println(before + " > Error: No parent directory");
                         }
                         break;
                     }
@@ -59,40 +60,40 @@ public class Shell {
                     if (dd.exists() && dd.isDirectory()) {
                         currentDirectory = dd;
                     } else {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > Error: Directory not found");
+                        System.out.println(before + " > Error: Directory not found");
                     }
                     break;
                 case "mkdir":
                     if (parts.length < 2) {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > Error: The command 'mkdir' wait for a dirname");
+                        System.out.println(before + " > Error: The command 'mkdir' wait for a dirname");
                     } else {
                         String dirname = parts[1];
                         File newDir = new File(currentDirectory, dirname);
                         if (newDir.mkdir()) {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Directory '" + dirname + "' created");
+                            System.out.println(before + " > Directory '" + dirname + "' created");
                             break;
                         } else {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Error: Could not create directory");
+                            System.out.println(before + " > Error: Could not create directory");
                             break;
                         }
                     }
                     break;
                 case "deldir":
                     if (parts.length < 2) {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > Error: The command 'deldir' wait for a dirname");
+                        System.out.println(before + " > Error: The command 'deldir' wait for a dirname");
                     } else {
                         String dirname = parts[1];
                         File dirToDelete = new File(currentDirectory, dirname);
                         if (dirToDelete.exists() && dirToDelete.isDirectory()) {
                             if (dirToDelete.delete()) {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > Directory '" + dirname + "' deleted");
+                                System.out.println(before + " > Directory '" + dirname + "' deleted");
                                 break;
                             } else {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > Error: Could not delete directory (make sure it's empty)");
+                                System.out.println(before + " > Error: Could not delete directory (make sure it's empty)");
                                 break;
                             }
                         } else {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Error: Directory not found");
+                            System.out.println(before + " > Error: Directory not found");
                             break;
                         }
                     }
@@ -102,39 +103,39 @@ public class Shell {
                     break;
                 case "create":
                     if (parts.length < 2) {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > Error: The command 'create' wait for a filename");
+                        System.out.println(before + " > Error: The command 'create' wait for a filename");
                     } else {
                         String filename = parts[1];
                         File newFile = new File(currentDirectory, filename);
                         try {
                             if (newFile.createNewFile()) {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > File " + filename + " created");
+                                System.out.println(before + " > File " + filename + " created");
                                 break;
                             } else {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > Error: File already exists");
+                                System.out.println(before + " > Error: File already exists");
                             }
                         } catch (Exception e) {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Error: Could not create file");
+                            System.out.println(before + " > Error: Could not create file");
                             break;
                         }
                     }
                     break;
                 case "delfile":
                     if (parts.length < 2) {
-                        System.out.println(currentDirectory.getAbsolutePath() + " > The command 'delfile' need a filename.");
+                        System.out.println(before + " > The command 'delfile' need a filename.");
                     } else {
                         String filename = parts[1];
                         File filetodelete = new File(currentDirectory, filename);
                         if (filetodelete.exists() && filetodelete.isFile()) {
                             if (filetodelete.delete()) {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > File " + filename + " deleted");
+                                System.out.println(before + " > File " + filename + " deleted");
                                 break;
                             } else {
-                                System.out.println(currentDirectory.getAbsolutePath() + " > Error: Could not delete file");
+                                System.out.println(before + " > Error: Could not delete file");
                                 break;
                             }
                         } else {
-                            System.out.println(currentDirectory.getAbsolutePath() + " > Error: File not found");
+                            System.out.println(before + " > Error: File not found");
                             break;
                         }
                     }
@@ -157,7 +158,7 @@ public class Shell {
                     System.out.println("exit - Exit the shell");
                     break;
                 default:
-                    System.out.println(currentDirectory.getAbsolutePath() + " > Error: Unknown command '" + command + "'");
+                    System.out.println(before + " > Error: Unknown command '" + command + "'");
                     break;
             }
         }
