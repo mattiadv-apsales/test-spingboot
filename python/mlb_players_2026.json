@@ -1,0 +1,1520 @@
+[
+    {
+        "name": "Juan Soto",
+        "team": "NYM",
+        "position": "RF",
+        "salary": "$61,875,000"
+    },
+    {
+        "name": "Zack Wheeler",
+        "team": "PHI",
+        "position": "SP/SP1",
+        "salary": "$42,000,000"
+    },
+    {
+        "name": "Vladimir Guerrero Jr.",
+        "team": "TOR",
+        "position": "1B",
+        "salary": "$40,214,285"
+    },
+    {
+        "name": "Aaron Judge",
+        "team": "NYY",
+        "position": "RF",
+        "salary": "$40,000,000"
+    },
+    {
+        "name": "Anthony Rendon",
+        "team": "LAA",
+        "position": "3B",
+        "salary": "$38,571,432"
+    },
+    {
+        "name": "Jacob deGrom",
+        "team": "TEX",
+        "position": "SP",
+        "salary": "$38,000,000"
+    },
+    {
+        "name": "Mike Trout",
+        "team": "LAA",
+        "position": "RF",
+        "salary": "$37,116,666"
+    },
+    {
+        "name": "Gerrit Cole",
+        "team": "NYY",
+        "position": "SP",
+        "salary": "$36,000,000"
+    },
+    {
+        "name": "Jose Altuve",
+        "team": "HOU",
+        "position": "2B",
+        "salary": "$33,000,000"
+    },
+    {
+        "name": "Carlos Correa",
+        "team": "HOU",
+        "position": "3B",
+        "salary": "$32,833,333"
+    },
+    {
+        "name": "Tyler Glasnow",
+        "team": "LAD",
+        "position": "SP",
+        "salary": "$32,500,000"
+    },
+    {
+        "name": "Francisco Lindor",
+        "team": "NYM",
+        "position": "SS",
+        "salary": "$32,477,821"
+    },
+    {
+        "name": "Corey Seager",
+        "team": "TEX",
+        "position": "SS",
+        "salary": "$31,500,000"
+    },
+    {
+        "name": "Sonny Gray",
+        "team": "BOS",
+        "position": "SP",
+        "salary": "$31,000,000"
+    },
+    {
+        "name": "Corbin Burnes",
+        "team": "ARI",
+        "position": "SP/SP1",
+        "salary": "$30,833,333"
+    },
+    {
+        "name": "Nathan Eovaldi",
+        "team": "TEX",
+        "position": "SP/SP1",
+        "salary": "$29,000,000"
+    },
+    {
+        "name": "Giancarlo Stanton",
+        "team": "NYY",
+        "position": "DH",
+        "salary": "$29,000,000"
+    },
+    {
+        "name": "Shohei Ohtani",
+        "team": "LAD",
+        "position": "SP/DH",
+        "salary": "$28,216,944"
+    },
+    {
+        "name": "Dansby Swanson",
+        "team": "CHC",
+        "position": "SS",
+        "salary": "$28,000,000"
+    },
+    {
+        "name": "Blake Snell",
+        "team": "LAD",
+        "position": "SP/SP3",
+        "salary": "$27,869,485"
+    },
+    {
+        "name": "Carlos Rodon",
+        "team": "NYY",
+        "position": "SP",
+        "salary": "$27,833,333"
+    },
+    {
+        "name": "Bryce Harper",
+        "team": "PHI",
+        "position": "1B",
+        "salary": "$27,538,462"
+    },
+    {
+        "name": "Trea Turner",
+        "team": "PHI",
+        "position": "SS",
+        "salary": "$27,272,727"
+    },
+    {
+        "name": "Nolan Arenado",
+        "team": "STL",
+        "position": "3B",
+        "salary": "$27,000,000"
+    },
+    {
+        "name": "Kris Bryant",
+        "team": "COL",
+        "position": "OF",
+        "salary": "$27,000,000"
+    },
+    {
+        "name": "Rafael Devers",
+        "team": "SF",
+        "position": "3B",
+        "salary": "$27,000,000"
+    },
+    {
+        "name": "Yordan Alvarez",
+        "team": "HOU",
+        "position": "DH/LF",
+        "salary": "$26,833,333"
+    },
+    {
+        "name": "Marcus Semien",
+        "team": "NYM",
+        "position": "2B",
+        "salary": "$26,000,000"
+    },
+    {
+        "name": "Xander Bogaerts",
+        "team": "SD",
+        "position": "2B",
+        "salary": "$25,454,545"
+    },
+    {
+        "name": "Dylan Cease",
+        "team": "TOR",
+        "position": "SP/SP3",
+        "salary": "$25,285,714"
+    },
+    {
+        "name": "Mookie Betts",
+        "team": "LAD",
+        "position": "SS",
+        "salary": "$25,167,520"
+    },
+    {
+        "name": "Matt Chapman",
+        "team": "SF",
+        "position": "3B",
+        "salary": "$25,166,666"
+    },
+    {
+        "name": "Manny Machado",
+        "team": "SD",
+        "position": "3B",
+        "salary": "$25,090,909"
+    },
+    {
+        "name": "Robbie Ray",
+        "team": "SF",
+        "position": "SP",
+        "salary": "$25,000,000"
+    },
+    {
+        "name": "Luis Severino",
+        "team": "ATH",
+        "position": "SP/SP3",
+        "salary": "$25,000,000"
+    },
+    {
+        "name": "Trevor Story",
+        "team": "BOS",
+        "position": "SS",
+        "salary": "$25,000,000"
+    },
+    {
+        "name": "Garrett Crochet",
+        "team": "BOS",
+        "position": "SP",
+        "salary": "$24,800,000"
+    },
+    {
+        "name": "Aaron Nola",
+        "team": "PHI",
+        "position": "SP/SP2",
+        "salary": "$24,571,428"
+    },
+    {
+        "name": "George Springer",
+        "team": "TOR",
+        "position": "RF",
+        "salary": "$24,166,667"
+    },
+    {
+        "name": "Luis Castillo",
+        "team": "SEA",
+        "position": "SP",
+        "salary": "$24,150,000"
+    },
+    {
+        "name": "Christian Yelich",
+        "team": "MIL",
+        "position": "LF",
+        "salary": "$24,032,605"
+    },
+    {
+        "name": "Javier Báez",
+        "team": "DET",
+        "position": "SS",
+        "salary": "$24,000,000"
+    },
+    {
+        "name": "Jung Hoo Lee",
+        "team": "SF",
+        "position": "OF",
+        "salary": "$23,250,000"
+    },
+    {
+        "name": "Kevin Gausman",
+        "team": "TOR",
+        "position": "SP",
+        "salary": "$23,000,000"
+    },
+    {
+        "name": "Logan Webb",
+        "team": "SF",
+        "position": "SP",
+        "salary": "$23,000,000"
+    },
+    {
+        "name": "Freddie Freeman",
+        "team": "LAD",
+        "position": "1B",
+        "salary": "$22,874,920"
+    },
+    {
+        "name": "Trent Grisham",
+        "team": "NYY",
+        "position": "CF",
+        "salary": "$22,025,000"
+    },
+    {
+        "name": "Shota Imanaga",
+        "team": "CHC",
+        "position": "SP",
+        "salary": "$22,025,000"
+    },
+    {
+        "name": "Gleyber Torres",
+        "team": "DET",
+        "position": "2B",
+        "salary": "$22,025,000"
+    },
+    {
+        "name": "Brandon Woodruff",
+        "team": "MIL",
+        "position": "SP/SP2",
+        "salary": "$22,025,000"
+    },
+    {
+        "name": "Matt Olson",
+        "team": "ATL",
+        "position": "1B",
+        "salary": "$22,000,000"
+    },
+    {
+        "name": "Austin Riley",
+        "team": "ATL",
+        "position": "3B",
+        "salary": "$22,000,000"
+    },
+    {
+        "name": "Pablo López",
+        "team": "MIN",
+        "position": "SP",
+        "salary": "$21,750,000"
+    },
+    {
+        "name": "Seth Lugo",
+        "team": "KC",
+        "position": "SP",
+        "salary": "$21,500,000"
+    },
+    {
+        "name": "Cristian Javier",
+        "team": "HOU",
+        "position": "SP",
+        "salary": "$21,400,000"
+    },
+    {
+        "name": "Yusei Kikuchi",
+        "team": "LAA",
+        "position": "SP",
+        "salary": "$21,225,000"
+    },
+    {
+        "name": "José Ramírez",
+        "team": "CLE",
+        "position": "3B",
+        "salary": "$21,000,000"
+    },
+    {
+        "name": "Eduardo Rodriguez",
+        "team": "ARI",
+        "position": "SP/SP1",
+        "salary": "$21,000,000"
+    },
+    {
+        "name": "Fernando Tatis Jr.",
+        "team": "SD",
+        "position": "RF",
+        "salary": "$20,714,285"
+    },
+    {
+        "name": "Brandon Nimmo",
+        "team": "TEX",
+        "position": "CF",
+        "salary": "$20,500,000"
+    },
+    {
+        "name": "Nick Pivetta",
+        "team": "SD",
+        "position": "SP",
+        "salary": "$20,500,000"
+    },
+    {
+        "name": "Yoshinobu Yamamoto",
+        "team": "LAD",
+        "position": "SP",
+        "salary": "$20,333,333"
+    },
+    {
+        "name": "Julio Rodriguez",
+        "team": "SEA",
+        "position": "CF",
+        "salary": "$20,185,714"
+    },
+    {
+        "name": "Nick Castellanos",
+        "team": "PHI",
+        "position": "RF",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Jack Flaherty",
+        "team": "DET",
+        "position": "SP",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Joe Musgrove",
+        "team": "SD",
+        "position": "SP",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Luis Robert Jr.",
+        "team": "CHW",
+        "position": "CF",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Spencer Strider",
+        "team": "ATL",
+        "position": "SP",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Christian Walker",
+        "team": "HOU",
+        "position": "1B",
+        "salary": "$20,000,000"
+    },
+    {
+        "name": "Sean Manaea",
+        "team": "NYM",
+        "position": "SP",
+        "salary": "$19,680,726"
+    },
+    {
+        "name": "José Berríos",
+        "team": "TOR",
+        "position": "SP",
+        "salary": "$19,000,000"
+    },
+    {
+        "name": "Josh Hader",
+        "team": "HOU",
+        "position": "RP/CL",
+        "salary": "$19,000,000"
+    },
+    {
+        "name": "Ian Happ",
+        "team": "CHC",
+        "position": "LF",
+        "salary": "$19,000,000"
+    },
+    {
+        "name": "Seiya Suzuki",
+        "team": "CHC",
+        "position": "OF",
+        "salary": "$19,000,000"
+    },
+    {
+        "name": "Masataka Yoshida",
+        "team": "BOS",
+        "position": "OF",
+        "salary": "$18,600,000"
+    },
+    {
+        "name": "Joc Pederson",
+        "team": "TEX",
+        "position": "DH",
+        "salary": "$18,500,000"
+    },
+    {
+        "name": "Willson Contreras",
+        "team": "STL",
+        "position": "1B",
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Chris Sale",
+        "team": "ATL",
+        "position": "SP/SP2",
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Jameson Taillon",
+        "team": "CHC",
+        "position": "SP",
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Michael Wacha",
+        "team": "KC",
+        "position": "SP/SP5",
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Taijuan Walker",
+        "team": "PHI",
+        "position": "SP",
+        "salary": "$18,000,000"
+    },
+    {
+        "name": "Lance McCullers",
+        "team": "HOU",
+        "position": "SP",
+        "salary": "$17,700,000"
+    },
+    {
+        "name": "Sandy Alcantara",
+        "team": "MIA",
+        "position": "SP",
+        "salary": "$17,300,000"
+    },
+    {
+        "name": "Andrew Benintendi",
+        "team": "CHW",
+        "position": "LF",
+        "salary": "$17,100,000"
+    },
+    {
+        "name": "Ronald Acuña Jr.",
+        "team": "ATL",
+        "position": "RF",
+        "salary": "$17,000,000"
+    },
+    {
+        "name": "Matthew Boyd",
+        "team": "CHC",
+        "position": "SP/SP1",
+        "salary": "$17,000,000"
+    },
+    {
+        "name": "Devin Williams",
+        "team": "NYM",
+        "position": "RP/CL",
+        "salary": "$17,000,000"
+    },
+    {
+        "name": "Mitch Keller",
+        "team": "PIT",
+        "position": "SP",
+        "salary": "$16,911,500"
+    },
+    {
+        "name": "Tyler O'Neill",
+        "team": "BAL",
+        "position": "LF",
+        "salary": "$16,500,000"
+    },
+    {
+        "name": "Shane Bieber",
+        "team": "TOR",
+        "position": "SP/SP1",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Yu Darvish",
+        "team": "SD",
+        "position": "SP",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Kyle Freeland",
+        "team": "COL",
+        "position": "SP",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Raisel Iglesias",
+        "team": "ATL",
+        "position": "RP/CL",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Ketel Marte",
+        "team": "ARI",
+        "position": "2B",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Ryan McMahon",
+        "team": "NYY",
+        "position": "3B",
+        "salary": "$16,000,000"
+    },
+    {
+        "name": "Jeff McNeil",
+        "team": "NYM",
+        "position": "2B",
+        "salary": "$15,750,000"
+    },
+    {
+        "name": "Andres Gimenez",
+        "team": "TOR",
+        "position": "2B",
+        "salary": "$15,571,428"
+    },
+    {
+        "name": "Wander Franco",
+        "team": "TB",
+        "position": "SS",
+        "salary": "$15,454,545"
+    },
+    {
+        "name": "Byron Buxton",
+        "team": "MIN",
+        "position": "CF",
+        "salary": "$15,142,857"
+    },
+    {
+        "name": "Sean Murphy",
+        "team": "ATL",
+        "position": "C",
+        "salary": "$15,000,000"
+    },
+    {
+        "name": "Jurickson Profar",
+        "team": "ATL",
+        "position": "LF",
+        "salary": "$15,000,000"
+    },
+    {
+        "name": "Kodai Senga",
+        "team": "NYM",
+        "position": "SP",
+        "salary": "$15,000,000"
+    },
+    {
+        "name": "Teoscar Hernandez",
+        "team": "LAD",
+        "position": "LF/RF",
+        "salary": "$14,709,589"
+    },
+    {
+        "name": "Max Fried",
+        "team": "NYY",
+        "position": "SP/SP2",
+        "salary": "$14,500,000"
+    },
+    {
+        "name": "Bryan Reynolds",
+        "team": "PIT",
+        "position": "RF",
+        "salary": "$14,250,000"
+    },
+    {
+        "name": "Bobby Witt Jr.",
+        "team": "KC",
+        "position": "SS",
+        "salary": "$14,111,111"
+    },
+    {
+        "name": "Ryan Helsley",
+        "team": "BAL",
+        "position": "RP",
+        "salary": "$14,000,000"
+    },
+    {
+        "name": "Reynaldo López",
+        "team": "ATL",
+        "position": "SP",
+        "salary": "$14,000,000"
+    },
+    {
+        "name": "Blake Treinen",
+        "team": "LAD",
+        "position": "RP",
+        "salary": "$13,500,000"
+    },
+    {
+        "name": "Willy Adames",
+        "team": "SF",
+        "position": "SS",
+        "salary": "$13,142,857"
+    },
+    {
+        "name": "Aroldis Chapman",
+        "team": "BOS",
+        "position": "RP",
+        "salary": "$13,000,000"
+    },
+    {
+        "name": "Lourdes Gurriel Jr.",
+        "team": "ARI",
+        "position": "OF/LF/DH",
+        "salary": "$13,000,000"
+    },
+    {
+        "name": "Clay Holmes",
+        "team": "NYM",
+        "position": "SP",
+        "salary": "$13,000,000"
+    },
+    {
+        "name": "Jorge Soler",
+        "team": "LAA",
+        "position": "RF/DH",
+        "salary": "$13,000,000"
+    },
+    {
+        "name": "Will Smith",
+        "team": "LAD",
+        "position": "C",
+        "salary": "$12,927,716"
+    },
+    {
+        "name": "Patrick Sandoval",
+        "team": "BOS",
+        "position": "SP/SP3",
+        "salary": "$12,750,000"
+    },
+    {
+        "name": "Jeff Hoffman",
+        "team": "TOR",
+        "position": "RP",
+        "salary": "$12,666,666"
+    },
+    {
+        "name": "Cal Raleigh",
+        "team": "SEA",
+        "position": "C",
+        "salary": "$12,666,666"
+    },
+    {
+        "name": "Tanner Scott",
+        "team": "LAD",
+        "position": "RP/SU7",
+        "salary": "$12,588,508"
+    },
+    {
+        "name": "Jordan Hicks",
+        "team": "BOS",
+        "position": "RP",
+        "salary": "$12,500,000"
+    },
+    {
+        "name": "Salvador Perez",
+        "team": "KC",
+        "position": "C/1B/DH",
+        "salary": "$12,500,000"
+    },
+    {
+        "name": "Jake Cronenworth",
+        "team": "SD",
+        "position": "1B",
+        "salary": "$12,285,714"
+    },
+    {
+        "name": "Tommy Edman",
+        "team": "LAD",
+        "position": "CF",
+        "salary": "$12,091,513"
+    },
+    {
+        "name": "J.P. Crawford",
+        "team": "SEA",
+        "position": "SS",
+        "salary": "$12,000,000"
+    },
+    {
+        "name": "Yandy Diaz",
+        "team": "TB",
+        "position": "1B/3B",
+        "salary": "$12,000,000"
+    },
+    {
+        "name": "Nico Hoerner",
+        "team": "CHC",
+        "position": "2B",
+        "salary": "$12,000,000"
+    },
+    {
+        "name": "Antonio Senzatela",
+        "team": "COL",
+        "position": "SP",
+        "salary": "$12,000,000"
+    },
+    {
+        "name": "Anthony Santander",
+        "team": "TOR",
+        "position": "LF",
+        "salary": "$11,806,220"
+    },
+    {
+        "name": "Brandon Lowe",
+        "team": "TB",
+        "position": "2B",
+        "salary": "$11,500,000"
+    },
+    {
+        "name": "Josh Naylor",
+        "team": "SEA",
+        "position": "1B/OF",
+        "salary": "$11,300,000"
+    },
+    {
+        "name": "A.J. Minter",
+        "team": "NYM",
+        "position": "RP/SU8",
+        "salary": "$11,000,000"
+    },
+    {
+        "name": "Robert Stephenson",
+        "team": "LAA",
+        "position": "RP/SU7",
+        "salary": "$11,000,000"
+    },
+    {
+        "name": "Corbin Carroll",
+        "team": "ARI",
+        "position": "LF",
+        "salary": "$10,625,000"
+    },
+    {
+        "name": "Jeffrey Springs",
+        "team": "ATH",
+        "position": "SP",
+        "salary": "$10,500,000"
+    },
+    {
+        "name": "Carlos Estevez",
+        "team": "KC",
+        "position": "RP",
+        "salary": "$10,100,000"
+    },
+    {
+        "name": "Max Muncy",
+        "team": "LAD",
+        "position": "1B",
+        "salary": "$10,000,000"
+    },
+    {
+        "name": "Emilio Pagan",
+        "team": "CIN",
+        "position": "RP/SU8",
+        "salary": "$10,000,000"
+    },
+    {
+        "name": "Aaron Bummer",
+        "team": "ATL",
+        "position": "RP",
+        "salary": "$9,500,000"
+    },
+    {
+        "name": "Jose Alvarado",
+        "team": "PHI",
+        "position": "RP",
+        "salary": "$9,000,000"
+    },
+    {
+        "name": "Joe Jimenez",
+        "team": "ATL",
+        "position": "RP",
+        "salary": "$9,000,000"
+    },
+    {
+        "name": "Andrew Kittredge",
+        "team": "BAL",
+        "position": "RP",
+        "salary": "$9,000,000"
+    },
+    {
+        "name": "Alejandro Kirk",
+        "team": "TOR",
+        "position": "C",
+        "salary": "$8,700,000"
+    },
+    {
+        "name": "Hunter Greene",
+        "team": "CIN",
+        "position": "SP",
+        "salary": "$8,333,333"
+    },
+    {
+        "name": "Michael Harris II",
+        "team": "ATL",
+        "position": "CF",
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Jonathan India",
+        "team": "KC",
+        "position": "2B",
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Freddy Peralta",
+        "team": "MIL",
+        "position": "SP",
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Brent Rooker",
+        "team": "ATH",
+        "position": "DH",
+        "salary": "$8,000,000"
+    },
+    {
+        "name": "Jarren Duran",
+        "team": "BOS",
+        "position": "LF",
+        "salary": "$7,700,000"
+    },
+    {
+        "name": "Yimi Garcia",
+        "team": "TOR",
+        "position": "RP/SU7",
+        "salary": "$7,500,000"
+    },
+    {
+        "name": "Matt Strahm",
+        "team": "PHI",
+        "position": "RP",
+        "salary": "$7,500,000"
+    },
+    {
+        "name": "Garrett Whitlock",
+        "team": "BOS",
+        "position": "SP",
+        "salary": "$7,500,000"
+    },
+    {
+        "name": "Myles Straw",
+        "team": "TOR",
+        "position": "CF",
+        "salary": "$7,400,000"
+    },
+    {
+        "name": "Jackson Chourio",
+        "team": "MIL",
+        "position": "LF/RF",
+        "salary": "$7,250,000"
+    },
+    {
+        "name": "Ozzie Albies",
+        "team": "ATL",
+        "position": "2B",
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Ke'Bryan Hayes",
+        "team": "CIN",
+        "position": "3B",
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Andres Munoz",
+        "team": "SEA",
+        "position": "RP",
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Yariel Rodriguez",
+        "team": "TOR",
+        "position": "RP",
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Trevor Williams",
+        "team": "WSH",
+        "position": "SP",
+        "salary": "$7,000,000"
+    },
+    {
+        "name": "Kyle Higashioka",
+        "team": "TEX",
+        "position": "C",
+        "salary": "$6,750,000"
+    },
+    {
+        "name": "Ramon Laureano",
+        "team": "SD",
+        "position": "RF",
+        "salary": "$6,500,000"
+    },
+    {
+        "name": "Cedric Mullins",
+        "team": "TB",
+        "position": "CF",
+        "salary": "$6,500,000"
+    },
+    {
+        "name": "Emmanuel Clase",
+        "team": "CLE",
+        "position": "RP",
+        "salary": "$6,400,000"
+    },
+    {
+        "name": "Geraldo Perdomo",
+        "team": "ARI",
+        "position": "SS",
+        "salary": "$6,250,000"
+    },
+    {
+        "name": "Brayan Bello",
+        "team": "BOS",
+        "position": "SP",
+        "salary": "$6,166,666"
+    },
+    {
+        "name": "Mauricio Dubon",
+        "team": "ATL",
+        "position": "2B",
+        "salary": "$6,100,000"
+    },
+    {
+        "name": "Travis d'Arnaud",
+        "team": "LAA",
+        "position": "C",
+        "salary": "$6,000,000"
+    },
+    {
+        "name": "Yuki Matsui",
+        "team": "SD",
+        "position": "RP",
+        "salary": "$5,750,000"
+    },
+    {
+        "name": "Drew Rasmussen",
+        "team": "TB",
+        "position": "SP/SP2",
+        "salary": "$5,750,000"
+    },
+    {
+        "name": "Aaron Ashby",
+        "team": "MIL",
+        "position": "RP",
+        "salary": "$5,700,000"
+    },
+    {
+        "name": "Phil Maton",
+        "team": "CHC",
+        "position": "RP",
+        "salary": "$5,500,000"
+    },
+    {
+        "name": "Colin Rea",
+        "team": "CHC",
+        "position": "SP",
+        "salary": "$5,500,000"
+    },
+    {
+        "name": "Miguel Rojas",
+        "team": "LAD",
+        "position": "SS",
+        "salary": "$5,500,000"
+    },
+    {
+        "name": "Keibert Ruiz",
+        "team": "WSH",
+        "position": "C",
+        "salary": "$5,375,000"
+    },
+    {
+        "name": "Jose Trevino",
+        "team": "CIN",
+        "position": "C",
+        "salary": "$5,250,000"
+    },
+    {
+        "name": "Ezequiel Tovar",
+        "team": "COL",
+        "position": "SS",
+        "salary": "$5,214,285"
+    },
+    {
+        "name": "Victor Robles",
+        "team": "SEA",
+        "position": "RF",
+        "salary": "$5,125,000"
+    },
+    {
+        "name": "Anthony Kay",
+        "team": "CHW",
+        "position": "RP",
+        "salary": "$5,000,000"
+    },
+    {
+        "name": "Carson Kelly",
+        "team": "CHC",
+        "position": "C",
+        "salary": "$5,000,000"
+    },
+    {
+        "name": "Brooks Raley",
+        "team": "NYM",
+        "position": "RP/SU7",
+        "salary": "$4,750,000"
+    },
+    {
+        "name": "Cole Ragans",
+        "team": "KC",
+        "position": "SP",
+        "salary": "$4,583,333"
+    },
+    {
+        "name": "Clarke Schmidt",
+        "team": "NYY",
+        "position": "SP",
+        "salary": "$4,500,000"
+    },
+    {
+        "name": "Wandy Peralta",
+        "team": "SD",
+        "position": "RP/SU7",
+        "salary": "$4,450,000"
+    },
+    {
+        "name": "Tanner Bibee",
+        "team": "CLE",
+        "position": "SP",
+        "salary": "$4,400,000"
+    },
+    {
+        "name": "Colt Keith",
+        "team": "DET",
+        "position": "3B",
+        "salary": "$4,333,333"
+    },
+    {
+        "name": "Hyeseong Kim",
+        "team": "LAD",
+        "position": "2B",
+        "salary": "$4,083,333"
+    },
+    {
+        "name": "Austin Hedges",
+        "team": "CLE",
+        "position": "C",
+        "salary": "$4,000,000"
+    },
+    {
+        "name": "Tyrone Taylor",
+        "team": "NYM",
+        "position": "CF",
+        "salary": "$3,800,000"
+    },
+    {
+        "name": "Lawrence Butler",
+        "team": "ATH",
+        "position": "RF",
+        "salary": "$3,678,571"
+    },
+    {
+        "name": "Alex Vesia",
+        "team": "LAD",
+        "position": "RP",
+        "salary": "$3,550,000"
+    },
+    {
+        "name": "Cristopher Sanchez",
+        "team": "PHI",
+        "position": "SP",
+        "salary": "$3,500,000"
+    },
+    {
+        "name": "Trevor Stephan",
+        "team": "CLE",
+        "position": "RP",
+        "salary": "$3,500,000"
+    },
+    {
+        "name": "Brandon Pfaadt",
+        "team": "ARI",
+        "position": "SP",
+        "salary": "$3,400,000"
+    },
+    {
+        "name": "Matt Vierling",
+        "team": "DET",
+        "position": "RF",
+        "salary": "$3,255,000"
+    },
+    {
+        "name": "Jake Rogers",
+        "team": "DET",
+        "position": "C",
+        "salary": "$3,050,000"
+    },
+    {
+        "name": "Jake Fraley",
+        "team": "TB",
+        "position": "RF",
+        "salary": "$3,000,000"
+    },
+    {
+        "name": "Tim Hill",
+        "team": "NYY",
+        "position": "RP",
+        "salary": "$3,000,000"
+    },
+    {
+        "name": "James McCann",
+        "team": "ARI",
+        "position": "C",
+        "salary": "$2,750,000"
+    },
+    {
+        "name": "Jake Bauers",
+        "team": "MIL",
+        "position": "1B/OF",
+        "salary": "$2,700,000"
+    },
+    {
+        "name": "Roman Anthony",
+        "team": "BOS",
+        "position": "RF",
+        "salary": "$2,625,000"
+    },
+    {
+        "name": "Dietrich Enns",
+        "team": "BAL",
+        "position": "RP",
+        "salary": "$2,500,000"
+    },
+    {
+        "name": "Ryan Yarbrough",
+        "team": "NYY",
+        "position": "RP",
+        "salary": "$2,500,000"
+    },
+    {
+        "name": "Taylor Walls",
+        "team": "TB",
+        "position": "SS",
+        "salary": "$2,450,000"
+    },
+    {
+        "name": "Justin Martinez",
+        "team": "ARI",
+        "position": "RP",
+        "salary": "$2,400,000"
+    },
+    {
+        "name": "Félix Bautista",
+        "team": "BAL",
+        "position": "RP/CL",
+        "salary": "$2,250,000"
+    },
+    {
+        "name": "Kristian Campbell",
+        "team": "BOS",
+        "position": "2B",
+        "salary": "$2,250,000"
+    },
+    {
+        "name": "Joel Payamps",
+        "team": "ATL",
+        "position": "RP",
+        "salary": "$2,250,000"
+    },
+    {
+        "name": "Ceddanne Rafaela",
+        "team": "BOS",
+        "position": "CF",
+        "salary": "$2,250,000"
+    },
+    {
+        "name": "Jackson Merrill",
+        "team": "SD",
+        "position": "CF",
+        "salary": "$2,111,111"
+    },
+    {
+        "name": "Nolan Jones",
+        "team": "CLE",
+        "position": "RF",
+        "salary": "$2,000,000"
+    },
+    {
+        "name": "Shinnosuke Ogasawara",
+        "team": "WSH",
+        "position": "RP",
+        "salary": "$2,000,000"
+    },
+    {
+        "name": "Leody Taveras",
+        "team": "BAL",
+        "position": "CF",
+        "salary": "$2,000,000"
+    },
+    {
+        "name": "Alek Manoah",
+        "team": "ATL",
+        "position": "SP/SP4",
+        "salary": "$1,950,000"
+    },
+    {
+        "name": "JT Brubaker",
+        "team": "SF",
+        "position": "RP",
+        "salary": "$1,820,000"
+    },
+    {
+        "name": "Samuel Basallo",
+        "team": "BAL",
+        "position": "C",
+        "salary": "$1,625,000"
+    },
+    {
+        "name": "Enyel De Los Santos",
+        "team": "HOU",
+        "position": "RP",
+        "salary": "$1,600,000"
+    },
+    {
+        "name": "Sam Hentges",
+        "team": "SF",
+        "position": "RP",
+        "salary": "$1,400,000"
+    },
+    {
+        "name": "David Fry",
+        "team": "CLE",
+        "position": "C",
+        "salary": "$1,375,000"
+    },
+    {
+        "name": "Connor Wong",
+        "team": "BOS",
+        "position": "C",
+        "salary": "$1,375,000"
+    },
+    {
+        "name": "Nate Pearson",
+        "team": "HOU",
+        "position": "RP",
+        "salary": "$1,350,000"
+    },
+    {
+        "name": "Keegan Thompson",
+        "team": "CIN",
+        "position": "RP",
+        "salary": "$1,300,000"
+    },
+    {
+        "name": "Sam Haggerty",
+        "team": "TEX",
+        "position": "2B",
+        "salary": "$1,250,000"
+    },
+    {
+        "name": "Ben Rortvedt",
+        "team": "CIN",
+        "position": "C",
+        "salary": "$1,250,000"
+    },
+    {
+        "name": "Jack Suwinski",
+        "team": "PIT",
+        "position": "CF",
+        "salary": "$1,250,000"
+    },
+    {
+        "name": "Oswaldo Cabrera",
+        "team": "NYY",
+        "position": "3B",
+        "salary": "$1,200,000"
+    },
+    {
+        "name": "Beau Brieske",
+        "team": "DET",
+        "position": "RP",
+        "salary": "$1,157,500"
+    },
+    {
+        "name": "Austin Wynns",
+        "team": "ATH",
+        "position": "C",
+        "salary": "$1,100,000"
+    },
+    {
+        "name": "Cole Sulser",
+        "team": "TB",
+        "position": "RP",
+        "salary": "$1,050,000"
+    },
+    {
+        "name": "Riley Adams",
+        "team": "WSH",
+        "position": "C",
+        "salary": "$1,000,000"
+    },
+    {
+        "name": "Matt Festa",
+        "team": "CLE",
+        "position": "RP",
+        "salary": "$1,000,000"
+    },
+    {
+        "name": "Kyle Hart",
+        "team": "SD",
+        "position": "RP",
+        "salary": "$1,000,000"
+    },
+    {
+        "name": "Richard Lovelady",
+        "team": "NYM",
+        "position": "RP",
+        "salary": "$1,000,000"
+    },
+    {
+        "name": "Justin Topa",
+        "team": "MIN",
+        "position": "RP/SU8",
+        "salary": "$1,000,000"
+    },
+    {
+        "name": "Garrett Stubbs",
+        "team": "PHI",
+        "position": "C",
+        "salary": "$975,000"
+    },
+    {
+        "name": "Danny Young",
+        "team": "ATL",
+        "position": "RP",
+        "salary": "$925,000"
+    },
+    {
+        "name": "Connor Brogdon",
+        "team": "CLE",
+        "position": "RP",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Luis Campusano",
+        "team": "SD",
+        "position": "C",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Rico Garcia",
+        "team": "BAL",
+        "position": "RP",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Derek Hill",
+        "team": "CHW",
+        "position": "CF",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Alex Lange",
+        "team": "KC",
+        "position": "RP/CL",
+        "salary": "$900,000"
+    },
+    {
+        "name": "José Suarez",
+        "team": "ATL",
+        "position": "RP",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Taylor Trammell",
+        "team": "HOU",
+        "position": "OF",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Luis Vazquez",
+        "team": "BAL",
+        "position": "SS",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Joey Wentz",
+        "team": "ATL",
+        "position": "SP",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Eli White",
+        "team": "ATL",
+        "position": "OF",
+        "salary": "$900,000"
+    },
+    {
+        "name": "Sam Moll",
+        "team": "CIN",
+        "position": "RP",
+        "salary": "$875,000"
+    },
+    {
+        "name": "Rafael Marchán",
+        "team": "PHI",
+        "position": "C",
+        "salary": "$860,000"
+    },
+    {
+        "name": "Vidal Brujan",
+        "team": "ATL",
+        "position": "2B",
+        "salary": "$850,000"
+    },
+    {
+        "name": "Luis Medina",
+        "team": "ATH",
+        "position": "SP",
+        "salary": "$835,000"
+    },
+    {
+        "name": "Yohan Ramirez",
+        "team": "PIT",
+        "position": "RP",
+        "salary": "$825,000"
+    },
+    {
+        "name": "Ken Waldichuk",
+        "team": "ATH",
+        "position": "SP",
+        "salary": "$825,000"
+    },
+    {
+        "name": "James McArthur",
+        "team": "KC",
+        "position": "RP/CL",
+        "salary": "$810,000"
+    },
+    {
+        "name": "Cooper Criswell",
+        "team": "NYM",
+        "position": "RP",
+        "salary": "$800,000"
+    },
+    {
+        "name": "Joe Jacques",
+        "team": "NYM",
+        "position": "RP",
+        "salary": "$800,000"
+    }
+]

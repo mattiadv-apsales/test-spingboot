@@ -1,2 +1,2 @@
-javac --release 8 Funny.java
-java Funny
+javac City.java
+java City
