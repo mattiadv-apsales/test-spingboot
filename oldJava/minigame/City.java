@@ -1,3 +1,4 @@
+package oldJava.minigame;
 import java.util.Scanner;
 
 class Citta {
