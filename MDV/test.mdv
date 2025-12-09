@@ -1,0 +1,12 @@
+scrivi: "ti piace il mio linguaggio di programmazione?"
+scriviamo
+scrivi: "sappi che se hai detto di no sei palesemente gay"
+calcola: 24+7
+variabile: x = scriviamo
+variabile: y = scriviamo
+variabile: patate = "Ciao sono una patata"
+calcola: x + y
+scrivi: "{patate}"
+variabile: nome = scriviamo
+scrivi: "Benvenuto {nome}"
+se x == y

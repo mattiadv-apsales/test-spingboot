@@ -1,2 +1,2 @@
-javac City.java
-java City
+javac Test.java
+java Test
