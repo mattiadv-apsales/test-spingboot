@@ -1,6 +1,13 @@
 scrivi: "ti piace il mio linguaggio di programmazione?"
-scriviamo
-scrivi: "sappi che se hai detto di no sei palesemente gay"
+variabile: scelta = scriviamo
+se scelta == "si":
+    scrivi: "Bravo ottima risposta"
+altrimenti se scelta == "no":
+    scrivi: "Brutto pezzo di merda, come osi"
+altrimenti se scelta == "cipolla":
+    scrivi: "Buona la cipolla"
+altrimenti:
+    scrivi: "Ma che cazzo hai scritto? mi spieghi cosa cazzo significa {scelta}"
 calcola: 24+7
 variabile: x = scriviamo
 variabile: y = scriviamo
@@ -9,4 +16,7 @@ calcola: x + y
 scrivi: "{patate}"
 variabile: nome = scriviamo
 scrivi: "Benvenuto {nome}"
-se x == y
+se x == y:
+    scrivi: "Si sono uguali {nome}"
+altrimenti:
+    scrivi: "No non sono uguali {nome}"
