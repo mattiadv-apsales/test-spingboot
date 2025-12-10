@@ -11,6 +11,8 @@ def esegui_comando(line):
         if output.startswith('"') and output.endswith('"'):
             output = output[1:-1]
         print(output)
+    elif line.startswith("disoneste gratis"):
+        print("Puttane, droga e soldi COME SILVIO COMANDA")
     elif line.startswith("calcola:"):
         cmd = line.replace("calcola:", "").strip()
         for k, v in all_variables.items():

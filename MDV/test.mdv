@@ -20,3 +20,4 @@ se x == y:
     scrivi: "Si sono uguali {nome}"
 altrimenti:
     scrivi: "No non sono uguali {nome}"
+disoneste gratis
