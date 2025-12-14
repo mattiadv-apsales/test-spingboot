@@ -269,7 +269,7 @@ BASE_SCORES = "https://www.mlb.com/scores/"
 BASE_MLB = "https://www.mlb.com"
 
 today = str(date.today())
-dates = ["2025-07-05"]
+dates = [today]
 print(dates)
 
 def fetch_box_url(day):
