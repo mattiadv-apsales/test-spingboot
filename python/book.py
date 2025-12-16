@@ -6,7 +6,10 @@ from bs4 import BeautifulSoup
 import time
 from playwright.sync_api import sync_playwright
 
+separate_tab = []
+
 def return_stats():
+    global separate_tab
     all = []
 
     with open("mlb_boxscores.json") as file:
@@ -258,9 +261,9 @@ def return_stats():
 
         return tables
 
-    tables_separate = build_tables_separate(all_full_datas)
+    separate_tab = build_tables_separate(all_full_datas)
 
-    for i, table in enumerate(tables_separate, 1):
+    for i, table in enumerate(separate_tab, 1):
         print(f"\n=== TABLE {i} ===")
         for player in table:
             print(player)
@@ -269,7 +272,7 @@ BASE_SCORES = "https://www.mlb.com/scores/"
 BASE_MLB = "https://www.mlb.com"
 
 today = str(date.today())
-dates = [today]
+dates = ["2025-08-05"]
 print(dates)
 
 def fetch_box_url(day):
@@ -465,3 +468,23 @@ for all_info in all_plus_info:
     print(all_info)
     print("\n")
     tabella += 2
+
+datas = []
+
+for player in separate_tab:
+    for p in player:
+        datas.append(p)
+
+for plus in all_plus_info:
+    for k, v in plus.items():
+        for data in datas:
+            if k == 'Runners left in scoring position, 2 out':
+                k = "RLSP"
+            name = data['player'].split(",")[0].strip().lower()
+            if name in v.lower(): 
+                data[k] = v 
+            else:
+                data[k] = 0
+
+for data in datas:
+    print(data)
